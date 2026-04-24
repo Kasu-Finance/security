@@ -7,3 +7,5 @@ This git repository is a central place for all security-related information abou
     - [0xCommit](https://github.com/Kasu-Finance/security/tree/main/audits/Kasu_0xCommit.pdf)
 - Code Assessment of the Kasu Core Smart Contracts - Oct 01 2024
     - [ChainSecurity](https://github.com/Kasu-Finance/security/tree/main/audits/Kasu_ChainSecurity.pdf)
+- Nemesis Cyber Security - Claude Code assisst - Aor 24 2026
+  - [Nemesis + Claude Code](https://github.com/Kasu-Finance/security/tree/main/audits/Kasu_Nemesis%20Report_2026.pdf)  
